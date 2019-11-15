@@ -1,6 +1,5 @@
-# civfontawesome by KrizFrost
+# civfontawesome
 This was released publically due to me closing my server and other means 
-You have permission to edit this but do not re release it please. 
 
 # Dependency
 You will need the most updated version of chat
